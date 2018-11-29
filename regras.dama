@@ -1,0 +1,41 @@
+﻿__________________________________________________________
+__________________________________________________________
+__________________                    ____________________
+__________________       REGRAS       ____________________
+__________________                    ____________________
+__________________________________________________________
+
+    1. O jogo de damas pratica-se entre dois jogadores,
+    num tabuleiro quadrado, de 64 casas  alternadamente 
+    claras e escuras, dispondo de 12 peças brancas e 12
+    pretas.
+
+    2. O objetivo é capturar as peças do adversário. O 
+    jogador  que conseguir  comer  todas  as  peças  do 
+    inimigo ganha a partida.
+
+    3. A peça movimenta-se em diagonal,  sobre as casas
+    escuras, para a frente, e uma casa de cada vez. 
+
+    4. A  peça  pode  capturar  a  peça  do  adversário 
+    movendo-se para frente.
+
+    5. A peça  que  atingir a oitava  casa  adversária, 
+    será promovida a "dama".
+
+    6. A  dama pode mover-se para trás e para frente em 
+    diagonal. 
+
+    7. A dama  pode  também  capturar  outra  peça pela 
+    frente ou por trás em diagonal.
+
+    10. A captura não é obrigatória. 
+
+    11. A peça comum e a  dama têm o  mesmo valor  para 
+    capturar ou ser capturada.
+
+    12. A partida  termina  empatada  se   os jogadores 
+    tiverem uma ou duas peça(s) e após 3 rodadas nenhuma 
+    peça for capturada.
+
+__________________________________________________________
